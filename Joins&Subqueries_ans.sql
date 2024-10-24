@@ -1,5 +1,5 @@
 /*
-BASIC SELECT
+JOINS AND SUBQUERIES
 The link to the exercise is given below:
 https://pgexercises.com/questions/joins
 */
